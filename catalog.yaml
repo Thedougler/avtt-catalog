@@ -1,0 +1,3 @@
+# Catalog of avtt extensions. One entry per extension: name, source (any source `avtt ext add` accepts), description.
+# Open a pull request to list yours (ADR 0027).
+entries: []
